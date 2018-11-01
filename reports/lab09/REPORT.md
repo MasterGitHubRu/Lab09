@@ -123,5 +123,5 @@ sub   4096R/32BF8FBE 2018-03-26 [годен до: 2018-09-22]
 - [github-release](https://github.com/aktau/github-release)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
